@@ -20,6 +20,9 @@ public class Stack {
         var content = Arrays.copyOfRange(items,0,count);
         return Arrays.toString(content);
     }
+    public boolean isEmpty(){
+        return count == 0;
+    }
     public int peek(){
         if (count == 0)
             throw new IllegalStateException();

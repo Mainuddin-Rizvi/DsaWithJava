@@ -1,6 +1,6 @@
-package org.example.MoshDSA;
+package org.example.MoshDSA.linkedlist;
 
-import com.sun.security.jgss.GSSUtil;
+import org.example.MoshDSA.linkedlist.LinkedList;
 
 import java.util.Arrays;
 public class Main {

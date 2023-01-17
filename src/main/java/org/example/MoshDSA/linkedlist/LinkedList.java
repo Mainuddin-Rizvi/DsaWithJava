@@ -1,4 +1,4 @@
-package org.example.MoshDSA;
+package org.example.MoshDSA.linkedlist;
 
 import java.io.FileReader;
 import java.util.NoSuchElementException;

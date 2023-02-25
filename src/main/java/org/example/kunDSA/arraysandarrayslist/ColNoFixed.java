@@ -1,4 +1,4 @@
-package org.example.arraysandarrayslist;
+package org.example.kunDSA.arraysandarrayslist;
 
 public class ColNoFixed {
     public static void main(String[] args) {

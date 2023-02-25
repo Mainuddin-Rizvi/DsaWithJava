@@ -1,4 +1,4 @@
-package org.example.arraysandarrayslist;
+package org.example.kunDSA.arraysandarrayslist;
 
 public class Max {
     public static void main(String[] args) {

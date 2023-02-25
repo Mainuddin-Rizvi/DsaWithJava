@@ -1,4 +1,4 @@
-package org.example.arraysandarrayslist;
+package org.example.kunDSA.arraysandarrayslist;
 
 import java.util.Arrays;
 
